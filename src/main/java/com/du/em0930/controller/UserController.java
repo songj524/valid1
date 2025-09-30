@@ -1,9 +1,9 @@
-package com.du.valid1.controller;
+package com.du.em0930.controller;
 
-import com.du.valid1.dto.UserRequest;
-import com.du.valid1.entity.MyUser;
-import com.du.valid1.repository.MyUserRepository;
-import com.du.valid1.util.PasswordUtil;
+import com.du.em0930.dto.UserRequest;
+import com.du.em0930.entity.MyUser;
+import com.du.em0930.repository.MyUserRepository;
+import com.du.em0930.util.PasswordUtil;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
